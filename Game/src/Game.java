@@ -1,6 +1,6 @@
 import java.sql.SQLOutput;
 import java.util.Scanner;
-
+// Game class
 public class Game {
     static char[][] board;
     Player player1,player2;
